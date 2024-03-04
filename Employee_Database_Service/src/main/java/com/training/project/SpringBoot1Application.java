@@ -7,7 +7,6 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @SpringBootApplication(scanBasePackages="com.training.project")
-
 public class SpringBoot1Application {
 
 	public static void main(String[] args) {
