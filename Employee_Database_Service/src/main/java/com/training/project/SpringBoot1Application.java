@@ -1,5 +1,5 @@
 package com.training.project;
-
+ //Fresh Changes 3/5/24
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
